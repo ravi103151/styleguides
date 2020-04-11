@@ -120,7 +120,7 @@ see: ([https://en.wikipedia.org/wiki/Abbreviation](https://en.wikipedia.org/wiki
 
 ## How would I express that meaning in my own language?
 
-## Terminology
+## Terminology 
 
 * Brand name should not be localized/transliterated.
 * We should follow pontoon localization history.
